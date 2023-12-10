@@ -8,4 +8,4 @@ Preview: https://wai-intro-wcag.netlify.com/
 
 Please consider the wording in the WCAG 2.2 success criteria. If there is a translation of WCAG 2 in your language, review it thoughtfully. This text is not the same as the success criteria wording &mdash; it is a paraphrased summary that is intended to be easier to understand and accurate - yet it does not need to be comprehensive.
 
-Please collaborate with others who are familiar with WCAG to refine this wording in your language. Thank you!
+Please collaborate with others who are familiar with WCAG to refine this wording in your language. Thank you. 
